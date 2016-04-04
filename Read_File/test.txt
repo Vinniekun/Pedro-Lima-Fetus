@@ -1,0 +1,222 @@
+Campones das Terras AzuisPersonagem - humano camponesSempre que ativar uma <i>surpresa</i>, ganhe <b>+1 de Armadura</b> até o fim do turno.blue2NULL
+140
+Soldado atrasado para a GuerraPersonagem - humano soldado
+		<i>Lerdo</i> (não pode atacar no turno que entra em jogo).
+		Revele uma carta <i>auxílio</i>: receba <b>+1 de Armadura</b> até o fim do turno. A carta revelada não pode ser jogada no turno que é revelada.blue2NULL
+230
+Ajudante de MarkarathPersonagem - humano magoSempre que ativar uma carta <i>azul</i> <i>auxílio</i> ou <i>surpresa</i>, você pode gastar 1 <i>cor azul</i> para colocar 1 <i>mt</i> no <i>personagem</i> alvo.blue3NULL
+131
+Estátua da Sorte DesfragmentadaPersonagem - estátua
+		<b>Muralha </b>(só pode ser jogada na zona de <i>frontaria</i> e não pode se mover ou atacar).
+		Quando for destruída em combate, compre uma carta.blue2NULL
+032
+Furo na armaduraSurpresa<b>Combate</b>: A <b>Armadura</b> do <i>personagem</i> alvo torna-se 0 até o fim do turno.blue2NULL
+-
+-
+-
+
+Resistência em CombateSurpresa<b>Combate</b>: O <i>personagem</i> alvo recebe <b>+5 de Armadura</b> até o fim do turno. Se sua <b>Armadura</b> for um número par, compre uma carta.blue2NULL
+-
+-
+-
+
+Apagar em dobroSurpresaNegue a ativação de uma carta que o oponente jogar: Conceda uma <i>cor azul</i> sua para o oponente.blue1NULL
+-
+-
+-
+
+Cavaleiro Atrasado para a Justa Personagem - humano cavaleiro<b>Lerdo</b> (não pode atacar no turno que entra em jogo)blue3NULL
+241
+Guardião do Portão da SabedoriaPersonagem - estátua<b>Muralha</b> (só pode ser jogada na zona de Frontaria e não pode se mover ou atacar).blue4NULL
+0-4
+CancelarSurpresaNegue a ativação de uma carta que o oponente jogar, a menos que seu oponente gaste <i>duas cores</i>.blue2NULL
+-
+-
+-
+
+MarolaPermanente
+		<i><b>Afinidade com permanentes
+		</i></b>Sempre que um <i>personagem</i> entrar na <i>frontaria</i> do oponente, até um <i>personagem</i> alvo da <i>frontaria</i> remove um <i>mt </i>e ganha <b>+1 de Poder</b> até o fim do turno.blue25-
+-
+-
+
+Tartaruga Gigante da Casca-GrossaPersonagem - animal aquáticoToda vez que ativar uma carta do tipo <i>surpresa </i>ou <i>auxílio</i>, você pode revelar uma carta <i>azul </i>da mão. Se fizer, torne-se <i>indestrutível</i> até o início de seu próximo turno.blue45243
+Suícidio MarinhoAuxílio
+		<i><b>Afinidade com permanentes</b></i>
+		Sacrifique uma permanente:
+		 1. Destrua o <i>personagem</i> alvo.
+		 2. Tombe 3 cartas do oponente.
+		 3. Retorne uma carta do tipo <i>auxílio</i> do seu cemitério para sua mão.blue37-
+-
+-
+
+Tubarão FerozPersonagem - animal aquático
+		<i><b>Afinidade com personagens aquáticos
+		</i>
+		</b><i>Massivo</i>blue25421
+Baleia AtrozPersonagem - animal aquático
+		<i><b>Afinidade com personagens aquáticos</i>
+		</b>Todos <i>personagens aquáticos</i> do campo tornam-se <i>Incansáveis</i>, mas perdem <b>-1 de Poder</b>.blue46321
+Andarilho FantasmaPersonagem - humano <i>Imbloqueável</i>blue3221
+BolhasMetamorfose
+		<i><b>Afinidade com não-personagens</i></b>
+		O <i>personagem</i> equipado não pode ser alvo de cartas <i>auxílio </i>e <i>surpresa. </i>Quando o <i>personagem</i> for destruído, o oponente tomba cartas equivalente ao custo do <i>personagem </i>destruído.blue36-
+-
+-
+
+Mago Thorys dos Portões da SabedoriaPersonagem - humano mago
+		<i>Anti-magia</i> <b>3</b> (não pode ser afetado por habilidades e efeitos de cartas do oponente que custem 3 ou menos).
+		(<b><i>Em seu turno</i></b>) Gaste 3 <i>cores azuis</i>: procure por uma carta <i>azul</i> <i>auxílio</i> em seu baralho, e coloque-a no topo do baralho.blue3NULL
+130
+VelocidadeAuxílioEscolha um jogador: ele compra três cartas. Encerre seu turno.blue23-
+-
+-
+
+Nova EraAuxílioRetorne todas cartas da mão do jogador alvo para o baralho. Ele compra cartas até ficar com o mesmo número que possuia.blue23-
+-
+-
+
+Anti-MagiaMetamorfoseO <i>personagem</i> equipado não pode ser alvo de habilidades e efeitos de cartas do oponente. Ignore todas condições negativas que o afetaram anteriormente.blue22-
+-
+-
+
+Sapo Mata-MoscaPersonagem - aquáticoQuando for destruída por batalha ou pelo <i>tempo</i>, invoque um <i>personagem aquático 0/0/4</i>.blue1NULL
+040
+Sacerdote dos Templos de KainPersonagem - humano crente
+		Sacrifique esta carta:
+		 1. revele uma <i>permanente</i> de sua mão e destrua a <i>permanente </i>alvo.
+		2. revele uma <i>metamorfose </i>de sua mão e destrua a <i>metamorfose </i>alvo.blue2130
+Pare!Surpresa
+		<i><b>Afinidade com não-criaturas</i>
+		</b>Apague duas <i>cores azuis</i>. Todas cartas que você deveria tombar este turno por consequência de seu oponente são tombadas por ele.blue15-
+-
+-
+
+Peixe-EspadaPersonagem - animal aquáticoSe for revelada pela habilidade <i><b>Afinidade</b></i>, você pode invocá-la imediatamente gastando 2 <i>cores azuis</i>.blue3NULL
+320
+Turbilhão Faminta de PeixesPersonagem - grupo aquáticoSe esta carta destruiu algum <i>personagem</i> neste turno, retorne-a para sua mão.blue2NULL
+210
+CoraisSurpresa
+		<i><b>Afinidade com cartas azuis </i></b>
+		Descarte <b>X</b> cartas do topo do baralho para negar a ativação de uma carta de custo <b>X</b>.blue03-
+-
+-
+
+AfogamentoSurpresaAté três <i>personagens </i>alvos deixam de contar como <i>personagens </i>em suas zonas este turno.blue34-
+-
+-
+
+Cemitério AquáticoAuxílio - aquáticoEscolha <b>X </b>cartas de seu cemitério, onde <b>X</b> é o número de <i>personagens</i> aquáticos que controla. Coloque uma carta em sua mão, e o restante no baralho.blue56-
+-
+-
+
+DesaceleraçãoAuxílioEscolha três cartas do seu cemitério e retorne-as para seu baralho (não pode retornar outra carta com o nome <i>Desaceleração</i>). Compre uma carta.blue34-
+-
+-
+
+EscolhasAuxílio
+		<b><i>Afiniidade com auxílios
+		</b></i>Escolha:
+		 1. Compre duas cartas
+		 2. Destrua a <i>permanente </i>alvo.blue24-
+-
+-
+
+Sacrifício em Alto MarAuxílio - aquático
+		Retorne a<i> permanente </i>ou <i>criatura</i> alvo que controla para a mão. Olhe as <b>X</b> cartas do topo do baralho, onde <b>X</b> é o custo da carta retorna-
+		da para a mão, e adicione uma a sua mão. Retorne o restante para o fundo do baralho, em qualquer ordem.blue23-
+-
+-
+
+Urso das Montanhas de UrbePersonagem - animal
+		<i><b>Afinidade com permanentes
+		</b>Lerdo</i> (não ataca quando entra em jogo).<b><i>
+		</i></b>Quando entra em jogo, coloque um <i>mt </i>no(s) <i>personagens</i> inimigos para cada <i>cor </i>não-gasta que ele possue.blue36442
+Camaleão Personagem - animalUma vez por turno, você pode revelar esta carta da mão e declarar um <i>tipo</i> de carta (<i>auxílio</i>, <i>surpresa</i>, etc). Esta carta torna-se o <i>tipo</i> de carta escolhida até o fim do turno.blue34241
+RegressãoMetamorfoseO <i>personagem </i>equipado não pode atacar.blue2NULL
+-
+-
+-
+
+Girino Pula-PulaPersonagem - aquáticoQuando for do cemitério para o baralho, você pode sacrificar duas <i>cores azuis</i>. Se fizer isso, coloque esta carta e duas outras fichas com os mesmos atributos no campo.blue3NULL
+040
+Besta MarinhaPersonagem - besta aquática
+		<i>Imbloqueável</i>
+		(A qualquer momento): Sacrifique um <i>personagem</i>: ganhe <b>+1 de Poder</b>.blue780100
+Anti-MovimentoSurpresa
+		<b><i>Afinidade com susrpresas
+		</b></i>Cancele a ativação da carta alvo. O oponente tomba cartas equivalente ao custo da carta cancelada.blue36-
+-
+-
+
+Maré AltaAuxílioRetorne todos <i>personagens</i> para suas respectivas mãos.blue4NULL
+-
+-
+-
+
+Dilúvio dos DeusesAuxílioDestrua todos <i>personagens</i>, menos os <i>aquáticos</i>. blue7NULL
+-
+-
+-
+
+Mago do Caos e do ConhecimentoPersonagem - divindidade mago 
+		Reduza a carga em 1 para cada <i>auxílio</i> e <i>surpresa</i> em seu cemitério. <i><b>Lendário
+		</b></i>A<i>uxílios</i> e <i>surpresas</i> de todos jogadores custam <b>3 </b>a menos (suas cargas também). Sempre que ativar uma delas, retorne um <i>auxílio</i> ou <i>surpresa</i> de seu cemitério para o fundo do baralho.blue616260
+Ilusões Surpresa
+		Invoque três cópias de um <i>personagem</i> aliado com 2 ou menos de <b>Poder</b><b></b> em sua mesma zona.
+		 As cópias não atacam, possuem a habilidade: "se o <i>personagem </i>original deixar o campo, destrua esta carta", e não possuem<i> tempo de vida</i>. blue3NULL
+-
+-
+-
+
+Ondas Vão e VemPermanente
+		<b><i>Afinidade com permanentes</i></b>
+		No início de seu turno, ganhe um contador (máx.10). Quando for destruída, retorne <i>X </i>cartas de seu cemitério para o baralho, onde <i>X </i>é o número de marcadores desta carta.blue46-
+-
+-
+
+Ondas Pesadas DemaisPermanenteNenhum <i>personagem</i> pode atacar no turno que é invocado.blue3NULL
+-
+-
+-
+
+Gebinha Level 1Personagem - aprendiz de mago
+		<b>Missão</b>: ativar 3 cartas <i>auxílio</i> ou <i>surpresa</i>. 
+		<b>Recompensa</b>: Ganhe <b>+2 de Poder</b> e torne-se <i>Incansável</i>.blue1NULL
+120
+Gebinha Level 2Personagem - aprendiz de mago
+		<b>Missão</b>: cancelar uma carta do oponente. 
+		<b>Recompensa</b>: Ganhe uma cópia da carta cancelada.blue2NULL
+130
+Gebinha Level 1 e 3/4Personagem - aprendiz de mago
+		<b>Missão</b>: você tombar 5 ou mais cartas em um dano.
+		<b>Recompensa</b>: ganhe <b>+5 de Poder</b>.blue2NULL
+050
+Gebinha Level 1 e 7/8Personagem - aprendiz de mago
+		<b>Missão</b>: revelar 3 cartas diferentes (não necessariamente em um único turno).
+		<b>Recompensa</b>: <i>Escolha - </i>troque o controle ou destrua a <i>permanente</i> alvo.blue2NULL
+121
+Gebo Personagem - sacerdote
+		<b>Missão</b>: <i>personagem</i> aliado ser destruído em combate.
+		<b>Recompensa</b>: invoque novamente o <i>personagem<b> </i></b>recém destruído. blue23141
+Carta com Efeito Grande que Vinnie nao GostouPermanente
+		No início de seu turno, tombe X cartas, onde X é o número de contadores desta carta.
+		Remova todos marcadores desta carta: cancele a carta alvo de custo X. 
+		No fim de seu turno, esta carta ganha um contador (máx.5).blue3NULL
+-
+-
+-
+
+Combo com Geba Level 1 e 7/8Permanente
+		<i><b>Afinidade com auxílio e surpresa</i>
+		</b>Seus <i>personagens</i> não podem atacar.blue24-
+-
+-
+
+Magia de Custo Baixo pra Ficar de BoinhaAuxílio
+		Revele X <i>não-personagens azuis</i>.
+		Olhe as X cartas do topo do baralho: escolha uma e coloque-a em sua mão. Retorne as outras ao baralho e embarelhe-o.blue1NULL
+-
+-
+-
+

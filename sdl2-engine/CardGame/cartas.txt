@@ -1,0 +1,795 @@
+﻿mse version: 0.3.8
+game: four-suite
+stylesheet: style
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-15 22:53:38
+	time modified: 2016-03-29 20:04:56
+	bg color: 
+	nome carta: Campones das Terras Azuis
+	tipo carta: Personagem - humano campones
+	text: Sempre que ativar uma <i>surpresa</i>, ganhe <b>+1 de Armadura</b> até o fim do turno.
+	card color: blue
+	primary cost: 2
+	power: 1
+	lifetime: 4
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-15 22:54:55
+	time modified: 2016-03-21 23:50:08
+	bg color: 
+	nome carta: Soldado atrasado para a Guerra
+	tipo carta: Personagem - humano soldado
+	text:
+		<i>Lerdo</i> (não pode atacar no turno que entra em jogo).
+		Revele uma carta <i>auxílio</i>: receba <b>+1 de Armadura</b> até o fim do turno. A carta revelada não pode ser jogada no turno que é revelada.
+	card color: blue
+	primary cost: 2
+	power: 2
+	lifetime: 3
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-15 22:56:05
+	time modified: 2016-03-21 23:49:47
+	bg color: 
+	nome carta: Ajudante de Markarath
+	tipo carta: Personagem - humano mago
+	text: Sempre que ativar uma carta <i>azul</i> <i>auxílio</i> ou <i>surpresa</i>, você pode gastar 1 <i>cor azul</i> para colocar 1 <i>mt</i> no <i>personagem</i> alvo.
+	card color: blue
+	primary cost: 3
+	power: 1
+	lifetime: 3
+	armor: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-15 23:02:30
+	time modified: 2016-03-21 23:52:05
+	bg color: 
+	nome carta: Estátua da Sorte Desfragmentada
+	tipo carta: Personagem - estátua
+	text:
+		<b>Muralha </b>(só pode ser jogada na zona de <i>frontaria</i> e não pode se mover ou atacar).
+		Quando for destruída em combate, compre uma carta.
+	card color: blue
+	primary cost: 2
+	power: 0
+	lifetime: 3
+	armor: 2
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-15 23:02:52
+	time modified: 2016-03-22 00:03:27
+	bg color: 
+	nome carta: Furo na armadura
+	tipo carta: Surpresa
+	text: <b>Combate</b>: A <b>Armadura</b> do <i>personagem</i> alvo torna-se 0 até o fim do turno.
+	card color: blue
+	primary cost: 2
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-16 01:28:40
+	time modified: 2016-03-22 00:03:59
+	bg color: 
+	nome carta: Resistência em Combate
+	tipo carta: Surpresa
+	text: <b>Combate</b>: O <i>personagem</i> alvo recebe <b>+5 de Armadura</b> até o fim do turno. Se sua <b>Armadura</b> for um número par, compre uma carta.
+	card color: blue
+	primary cost: 2
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-16 01:29:53
+	time modified: 2016-03-20 19:08:29
+	bg color: 
+	nome carta: Apagar em dobro
+	tipo carta: Surpresa
+	text: Negue a ativação de uma carta que o oponente jogar: Conceda uma <i>cor azul</i> sua para o oponente.
+	card color: blue
+	primary cost: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-16 01:32:02
+	time modified: 2016-03-21 23:50:17
+	bg color: 
+	nome carta: Cavaleiro Atrasado para a Justa 
+	tipo carta: Personagem - humano cavaleiro
+	text: <b>Lerdo</b> (não pode atacar no turno que entra em jogo)
+	card color: blue
+	primary cost: 3
+	power: 2
+	lifetime: 4
+	armor: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-16 01:32:47
+	time modified: 2016-03-21 23:51:49
+	bg color: 
+	nome carta: Guardião do Portão da Sabedoria
+	tipo carta: Personagem - estátua
+	text: <b>Muralha</b> (só pode ser jogada na zona de Frontaria e não pode se mover ou atacar).
+	card color: blue
+	primary cost: 4
+	power: 0
+	lifetime: -
+	armor: 4
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:04:02
+	time modified: 2016-03-20 19:04:41
+	bg color: 
+	nome carta: Cancelar
+	tipo carta: Surpresa
+	text: Negue a ativação de uma carta que o oponente jogar, a menos que seu oponente gaste <i>duas cores</i>.
+	card color: blue
+	primary cost: 2
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:04:49
+	time modified: 2016-03-20 19:08:12
+	bg color: 
+	nome carta: Marola
+	tipo carta: Permanente
+	text:
+		<i><b>Afinidade com permanentes
+		</i></b>Sempre que um <i>personagem</i> entrar na <i>frontaria</i> do oponente, até um <i>personagem</i> alvo da <i>frontaria</i> remove um <i>mt </i>e ganha <b>+1 de Poder</b> até o fim do turno.
+	card color: blue
+	primary cost: 2
+	carga: 5
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:08:42
+	time modified: 2016-03-20 19:16:20
+	bg color: 
+	nome carta: Tartaruga Gigante da Casca-Grossa
+	tipo carta: Personagem - animal aquático
+	text: Toda vez que ativar uma carta do tipo <i>surpresa </i>ou <i>auxílio</i>, você pode revelar uma carta <i>azul </i>da mão. Se fizer, torne-se <i>indestrutível</i> até o início de seu próximo turno.
+	card color: blue
+	primary cost: 4
+	carga: 5
+	power: 2
+	lifetime: 4
+	armor: 3
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:10:40
+	time modified: 2016-03-20 19:12:20
+	bg color: 
+	nome carta: Suícidio Marinho
+	tipo carta: Auxílio
+	text:
+		<i><b>Afinidade com permanentes</b></i>
+		Sacrifique uma permanente:
+		 1. Destrua o <i>personagem</i> alvo.
+		 2. Tombe 3 cartas do oponente.
+		 3. Retorne uma carta do tipo <i>auxílio</i> do seu cemitério para sua mão.
+	card color: blue
+	primary cost: 3
+	carga: 7
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:12:27
+	time modified: 2016-03-20 19:15:59
+	bg color: 
+	nome carta: Tubarão Feroz
+	tipo carta: Personagem - animal aquático
+	text:
+		<i><b>Afinidade com personagens aquáticos
+		</i>
+		</b><i>Massivo</i>
+	card color: blue
+	primary cost: 2
+	carga: 5
+	power: 4
+	lifetime: 2
+	armor: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:13:23
+	time modified: 2016-03-20 19:15:05
+	bg color: 
+	nome carta: Baleia Atroz
+	tipo carta: Personagem - animal aquático
+	text:
+		<i><b>Afinidade com personagens aquáticos</i>
+		</b>Todos <i>personagens aquáticos</i> do campo tornam-se <i>Incansáveis</i>, mas perdem <b>-1 de Poder</b>.
+	card color: blue
+	primary cost: 4
+	carga: 6
+	power: 3
+	lifetime: 2
+	armor: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:15:24
+	time modified: 2016-03-21 22:38:20
+	bg color: 
+	nome carta: Andarilho Fantasma
+	tipo carta: Personagem - humano 
+	text: <i>Imbloqueável</i>
+	card color: blue
+	primary cost: 3
+	carga: 
+	power: 2
+	lifetime: 2
+	armor: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:18:11
+	time modified: 2016-03-20 19:19:57
+	bg color: 
+	nome carta: Bolhas
+	tipo carta: Metamorfose
+	text:
+		<i><b>Afinidade com não-personagens</i></b>
+		O <i>personagem</i> equipado não pode ser alvo de cartas <i>auxílio </i>e <i>surpresa. </i>Quando o <i>personagem</i> for destruído, o oponente tomba cartas equivalente ao custo do <i>personagem </i>destruído.
+	card color: blue
+	primary cost: 3
+	carga: 6
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:20:03
+	time modified: 2016-03-21 23:54:45
+	bg color: 
+	nome carta: Mago Thorys dos Portões da Sabedoria
+	tipo carta: Personagem - humano mago
+	text:
+		<i>Anti-magia</i> <b>3</b> (não pode ser afetado por habilidades e efeitos de cartas do oponente que custem 3 ou menos).
+		(<b><i>Em seu turno</i></b>) Gaste 3 <i>cores azuis</i>: procure por uma carta <i>azul</i> <i>auxílio</i> em seu baralho, e coloque-a no topo do baralho.
+	card color: blue
+	primary cost: 3
+	power: 1
+	lifetime: 3
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:21:06
+	time modified: 2016-03-20 19:22:36
+	bg color: 
+	nome carta: Velocidade
+	tipo carta: Auxílio
+	text: Escolha um jogador: ele compra três cartas. Encerre seu turno.
+	card color: blue
+	primary cost: 2
+	carga: 3
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:22:38
+	time modified: 2016-03-20 19:23:35
+	bg color: 
+	nome carta: Nova Era
+	tipo carta: Auxílio
+	text: Retorne todas cartas da mão do jogador alvo para o baralho. Ele compra cartas até ficar com o mesmo número que possuia.
+	card color: blue
+	primary cost: 2
+	carga: 3
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:23:41
+	time modified: 2016-03-21 22:42:36
+	bg color: 
+	nome carta: Anti-Magia
+	tipo carta: Metamorfose
+	text: O <i>personagem</i> equipado não pode ser alvo de habilidades e efeitos de cartas do oponente. Ignore todas condições negativas que o afetaram anteriormente.
+	card color: blue
+	primary cost: 2
+	carga: 2
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:25:17
+	time modified: 2016-03-20 19:26:20
+	bg color: 
+	nome carta: Sapo Mata-Mosca
+	tipo carta: Personagem - aquático
+	text: Quando for destruída por batalha ou pelo <i>tempo</i>, invoque um <i>personagem aquático 0/0/4</i>.
+	card color: blue
+	primary cost: 1
+	power: 0
+	lifetime: 4
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:38:47
+	time modified: 2016-03-21 23:46:18
+	bg color: 
+	nome carta: Sacerdote dos Templos de Kain
+	tipo carta: Personagem - humano crente
+	text:
+		Sacrifique esta carta:
+		 1. revele uma <i>permanente</i> de sua mão e destrua a <i>permanente </i>alvo.
+		2. revele uma <i>metamorfose </i>de sua mão e destrua a <i>metamorfose </i>alvo.
+	card color: blue
+	primary cost: 2
+	carga: 
+	power: 1
+	lifetime: 3
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:40:25
+	time modified: 2016-03-20 19:45:34
+	bg color: 
+	nome carta: Pare!
+	tipo carta: Surpresa
+	text:
+		<i><b>Afinidade com não-criaturas</i>
+		</b>Apague duas <i>cores azuis</i>. Todas cartas que você deveria tombar este turno por consequência de seu oponente são tombadas por ele.
+	card color: blue
+	primary cost: 1
+	carga: 5
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:45:49
+	time modified: 2016-03-21 22:37:15
+	bg color: 
+	nome carta: Peixe-Espada
+	tipo carta: Personagem - animal aquático
+	text: Se for revelada pela habilidade <i><b>Afinidade</b></i>, você pode invocá-la imediatamente gastando 2 <i>cores azuis</i>.
+	card color: blue
+	primary cost: 3
+	power: 3
+	lifetime: 2
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:47:12
+	time modified: 2016-03-20 19:47:55
+	bg color: 
+	nome carta: Turbilhão Faminta de Peixes
+	tipo carta: Personagem - grupo aquático
+	text: Se esta carta destruiu algum <i>personagem</i> neste turno, retorne-a para sua mão.
+	card color: blue
+	primary cost: 2
+	power: 2
+	lifetime: 1
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:48:09
+	time modified: 2016-03-20 19:49:28
+	bg color: 
+	nome carta: Corais
+	tipo carta: Surpresa
+	text:
+		<i><b>Afinidade com cartas azuis </i></b>
+		Descarte <b>X</b> cartas do topo do baralho para negar a ativação de uma carta de custo <b>X</b>.
+	card color: blue
+	primary cost: 0
+	carga: 3
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:49:37
+	time modified: 2016-03-22 00:05:52
+	bg color: 
+	nome carta: Afogamento
+	tipo carta: Surpresa
+	text: Até três <i>personagens </i>alvos deixam de contar como <i>personagens </i>em suas zonas este turno.
+	card color: blue
+	primary cost: 3
+	carga: 4
+	image: 
+	edition: A
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:50:58
+	time modified: 2016-03-20 19:52:06
+	bg color: 
+	nome carta: Cemitério Aquático
+	tipo carta: Auxílio - aquático
+	text: Escolha <b>X </b>cartas de seu cemitério, onde <b>X</b> é o número de <i>personagens</i> aquáticos que controla. Coloque uma carta em sua mão, e o restante no baralho.
+	card color: blue
+	primary cost: 5
+	carga: 6
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:52:25
+	time modified: 2016-03-20 19:53:14
+	bg color: 
+	nome carta: Desaceleração
+	tipo carta: Auxílio
+	text: Escolha três cartas do seu cemitério e retorne-as para seu baralho (não pode retornar outra carta com o nome <i>Desaceleração</i>). Compre uma carta.
+	card color: blue
+	primary cost: 3
+	carga: 4
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:53:29
+	time modified: 2016-03-20 19:54:16
+	bg color: 
+	nome carta: Escolhas
+	tipo carta: Auxílio
+	text:
+		<b><i>Afiniidade com auxílios
+		</b></i>Escolha:
+		 1. Compre duas cartas
+		 2. Destrua a <i>permanente </i>alvo.
+	card color: blue
+	primary cost: 2
+	carga: 4
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:54:27
+	time modified: 2016-03-21 22:36:29
+	bg color: 
+	nome carta: Sacrifício em Alto Mar
+	tipo carta: Auxílio - aquático
+	text:
+		Retorne a<i> permanente </i>ou <i>criatura</i> alvo que controla para a mão. Olhe as <b>X</b> cartas do topo do baralho, onde <b>X</b> é o custo da carta retorna-
+		da para a mão, e adicione uma a sua mão. Retorne o restante para o fundo do baralho, em qualquer ordem.
+	card color: blue
+	primary cost: 2
+	carga: 3
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:56:17
+	time modified: 2016-03-21 23:55:47
+	bg color: 
+	nome carta: Urso das Montanhas de Urbe
+	tipo carta: Personagem - animal
+	text:
+		<i><b>Afinidade com permanentes
+		</b>Lerdo</i> (não ataca quando entra em jogo).<b><i>
+		</i></b>Quando entra em jogo, coloque um <i>mt </i>no(s) <i>personagens</i> inimigos para cada <i>cor </i>não-gasta que ele possue.
+	card color: blue
+	primary cost: 3
+	carga: 6
+	power: 4
+	lifetime: 4
+	armor: 2
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:58:11
+	time modified: 2016-03-20 19:59:26
+	bg color: 
+	nome carta: Camaleão 
+	tipo carta: Personagem - animal
+	text: Uma vez por turno, você pode revelar esta carta da mão e declarar um <i>tipo</i> de carta (<i>auxílio</i>, <i>surpresa</i>, etc). Esta carta torna-se o <i>tipo</i> de carta escolhida até o fim do turno.
+	card color: blue
+	primary cost: 3
+	carga: 4
+	power: 2
+	lifetime: 4
+	armor: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-20 19:59:49
+	time modified: 2016-03-20 20:00:07
+	bg color: 
+	nome carta: Regressão
+	tipo carta: Metamorfose
+	text: O <i>personagem </i>equipado não pode atacar.
+	card color: blue
+	primary cost: 2
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-21 20:42:00
+	time modified: 2016-03-21 20:43:03
+	bg color: 
+	nome carta: Girino Pula-Pula
+	tipo carta: Personagem - aquático
+	text: Quando for do cemitério para o baralho, você pode sacrificar duas <i>cores azuis</i>. Se fizer isso, coloque esta carta e duas outras fichas com os mesmos atributos no campo.
+	card color: blue
+	primary cost: 3
+	power: 0
+	lifetime: 4
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-21 20:53:54
+	time modified: 2016-03-21 22:41:47
+	bg color: 
+	nome carta: Besta Marinha
+	tipo carta: Personagem - besta aquática
+	text:
+		<i>Imbloqueável</i>
+		(A qualquer momento): Sacrifique um <i>personagem</i>: ganhe <b>+1 de Poder</b>.
+	card color: blue
+	primary cost: 7
+	carga: 8
+	power: 0
+	lifetime: 10
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-21 22:38:48
+	time modified: 2016-03-21 23:59:18
+	bg color: 
+	nome carta: Anti-Movimento
+	tipo carta: Surpresa
+	text:
+		<b><i>Afinidade com susrpresas
+		</b></i>Cancele a ativação da carta alvo. O oponente tomba cartas equivalente ao custo da carta cancelada.
+	card color: blue
+	primary cost: 3
+	carga: 6
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-21 22:41:57
+	time modified: 2016-03-22 00:06:35
+	bg color: 
+	nome carta: Maré Alta
+	tipo carta: Auxílio
+	text: Retorne todos <i>personagens</i> para suas respectivas mãos.
+	card color: blue
+	primary cost: 4
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-21 22:44:56
+	time modified: 2016-03-21 23:59:21
+	bg color: 
+	nome carta: Dilúvio dos Deuses
+	tipo carta: Auxílio
+	text: Destrua todos <i>personagens</i>, menos os <i>aquáticos</i>. 
+	card color: blue
+	primary cost: 7
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-21 22:45:40
+	time modified: 2016-03-22 00:33:37
+	bg color: 
+	nome carta: Mago do Caos e do Conhecimento
+	tipo carta: Personagem - divindidade mago 
+	text:
+		Reduza a carga em 1 para cada <i>auxílio</i> e <i>surpresa</i> em seu cemitério. <i><b>Lendário
+		</b></i>A<i>uxílios</i> e <i>surpresas</i> de todos jogadores custam <b>3 </b>a menos (suas cargas também). Sempre que ativar uma delas, retorne um <i>auxílio</i> ou <i>surpresa</i> de seu cemitério para o fundo do baralho.
+	card color: blue
+	primary cost: 6
+	carga: 16
+	power: 2
+	lifetime: 6
+	armor: 0
+	image: image1
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-21 23:56:24
+	time modified: 2016-03-21 23:59:12
+	bg color: 
+	nome carta: Ilusões 
+	tipo carta: Surpresa
+	text:
+		Invoque três cópias de um <i>personagem</i> aliado com 2 ou menos de <b>Poder</b><b></b> em sua mesma zona.
+		 As cópias não atacam, possuem a habilidade: "se o <i>personagem </i>original deixar o campo, destrua esta carta", e não possuem<i> tempo de vida</i>. 
+	card color: blue
+	primary cost: 3
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-22 00:08:07
+	time modified: 2016-03-29 19:53:43
+	bg color: 
+	nome carta: Ondas Vão e Vem
+	tipo carta: Permanente
+	text:
+		<b><i>Afinidade com permanentes</i></b>
+		No início de seu turno, ganhe um contador (máx.10). Quando for destruída, retorne <i>X </i>cartas de seu cemitério para o baralho, onde <i>X </i>é o número de marcadores desta carta.
+	card color: blue
+	primary cost: 4
+	carga: 6
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-22 00:10:36
+	time modified: 2016-03-22 00:11:06
+	bg color: 
+	nome carta: Ondas Pesadas Demais
+	tipo carta: Permanente
+	text: Nenhum <i>personagem</i> pode atacar no turno que é invocado.
+	card color: blue
+	primary cost: 3
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-29 19:52:06
+	time modified: 2016-03-29 19:53:37
+	bg color: 
+	nome carta: Gebinha Level 1
+	tipo carta: Personagem - aprendiz de mago
+	text:
+		<b>Missão</b>: ativar 3 cartas <i>auxílio</i> ou <i>surpresa</i>. 
+		<b>Recompensa</b>: Ganhe <b>+2 de Poder</b> e torne-se <i>Incansável</i>.
+	card color: blue
+	primary cost: 1
+	power: 1
+	lifetime: 2
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-29 19:53:55
+	time modified: 2016-03-29 19:54:52
+	bg color: 
+	nome carta: Gebinha Level 2
+	tipo carta: Personagem - aprendiz de mago
+	text:
+		<b>Missão</b>: cancelar uma carta do oponente. 
+		<b>Recompensa</b>: Ganhe uma cópia da carta cancelada.
+	card color: blue
+	primary cost: 2
+	power: 1
+	lifetime: 3
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-29 19:53:55
+	time modified: 2016-03-29 19:56:01
+	bg color: 
+	nome carta: Gebinha Level 1 e 3/4
+	tipo carta: Personagem - aprendiz de mago
+	text:
+		<b>Missão</b>: você tombar 5 ou mais cartas em um dano.
+		<b>Recompensa</b>: ganhe <b>+5 de Poder</b>.
+	card color: blue
+	primary cost: 2
+	power: 0
+	lifetime: 5
+	armor: 0
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-29 19:53:55
+	time modified: 2016-03-29 19:58:09
+	bg color: 
+	nome carta: Gebinha Level 1 e 7/8
+	tipo carta: Personagem - aprendiz de mago
+	text:
+		<b>Missão</b>: revelar 3 cartas diferentes (não necessariamente em um único turno).
+		<b>Recompensa</b>: <i>Escolha - </i>troque o controle ou destrua a <i>permanente</i> alvo.
+	card color: blue
+	primary cost: 2
+	power: 1
+	lifetime: 2
+	armor: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-29 19:58:27
+	time modified: 2016-03-29 20:02:43
+	bg color: 
+	nome carta: Gebo 
+	tipo carta: Personagem - sacerdote
+	text:
+		<b>Missão</b>: <i>personagem</i> aliado ser destruído em combate.
+		<b>Recompensa</b>: invoque novamente o <i>personagem<b> </i></b>recém destruído. 
+	card color: blue
+	primary cost: 2
+	carga: 3
+	power: 1
+	lifetime: 4
+	armor: 1
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-29 20:00:44
+	time modified: 2016-03-29 20:02:33
+	bg color: 
+	nome carta: Carta com Efeito Grande que Vinnie nao Gostou
+	tipo carta: Permanente
+	text:
+		No início de seu turno, tombe X cartas, onde X é o número de contadores desta carta.
+		Remova todos marcadores desta carta: cancele a carta alvo de custo X. 
+		No fim de seu turno, esta carta ganha um contador (máx.5).
+	card color: blue
+	primary cost: 3
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-29 19:59:54
+	time modified: 2016-03-29 20:02:31
+	bg color: 
+	nome carta: Combo com Geba Level 1 e 7/8
+	tipo carta: Permanente
+	text:
+		<i><b>Afinidade com auxílio e surpresa</i>
+		</b>Seus <i>personagens</i> não podem atacar.
+	card color: blue
+	primary cost: 2
+	carga: 4
+	image: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-03-29 20:02:51
+	time modified: 2016-03-29 20:06:48
+	bg color: 
+	nome carta: Magia de Custo Baixo pra Ficar de Boinha
+	tipo carta: Auxílio
+	text:
+		Revele X <i>não-personagens azuis</i>.
+		Olhe as X cartas do topo do baralho: escolha uma e coloque-a em sua mão. Retorne as outras ao baralho e embarelhe-o.
+	card color: blue
+	primary cost: 1
+	image: 
+version control:
+	type: none
+apprentice code: 
